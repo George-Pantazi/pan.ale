@@ -1,0 +1,96 @@
+
+
+body {
+    background-color:burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    
+    font-family: italic , Helvetica, sans-serif;
+}
+
+
+img {
+    padding: 20px;
+    margin: 30px;
+    max-width: 100px;
+    width: 100%;
+    border: brown;
+    border-width: 10px;
+    min-width: 10px;
+    border-style: inset;
+    box-sizing: border-box;
+}
+p img {
+    padding: 15px;
+    margin: 20px;
+    max-width: 90px;
+}
+
+
+h1 {
+    margin-left: 30px;
+    font-family: Arial, Helvetica,  italic;
+    color:brown;
+}
+h2 {
+    font-size:1.5em; 
+    margin-left: 30px;
+    font-family: Arial,  italic, sans-serif;
+    color:white;
+    background-image: url(sfondo.jpeg);
+    padding: 2ch;
+
+}
+#Sottotitolo_ricetta{
+    font-size:1.5em; 
+    margin-left: 30px;
+    font-family: Arial,  italic, sans-serif;
+    color:rgb(39, 36, 199);
+    background-image: url(sfondo.jpeg);
+    padding: 2ch;
+
+}
+#Sottotitolo_ingredienti{
+    font-size:1.5em; 
+    margin-left: 30px;
+    font-family: Arial,  italic, sans-serif;
+    color:rgb(36, 199, 77);
+    background-image: url(sfondo.jpeg);
+    padding: 2ch;
+}
+
+.Ingredienti{
+    color:rgb(199, 36, 36);
+}
+h3 {
+    color:crimson;
+}
+p {
+    color: black;
+    font-style: italic;
+}
+
+.illustrazione {
+    color:firebrick;
+}
+
+
+figure,
+figcaption,
+
+
+blockquote {
+    padding: 12px;
+    margin: 0;
+}
+
+strong
+{
+    padding: 10PX;
+    margin: 20PX;
+    min-width: 50%;
+    text-align:right;
+}
+
+
